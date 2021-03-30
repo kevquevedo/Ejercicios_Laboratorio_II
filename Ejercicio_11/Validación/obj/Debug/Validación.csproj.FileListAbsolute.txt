@@ -1,0 +1,6 @@
+C:\Users\Kevin\source\repos\Ejercicio_11\Validación\bin\Debug\Validación.dll
+C:\Users\Kevin\source\repos\Ejercicio_11\Validación\bin\Debug\Validación.pdb
+C:\Users\Kevin\source\repos\Ejercicio_11\Validación\obj\Debug\Validación.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Ejercicio_11\Validación\obj\Debug\Validación.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Ejercicio_11\Validación\obj\Debug\Validación.dll
+C:\Users\Kevin\source\repos\Ejercicio_11\Validación\obj\Debug\Validación.pdb
