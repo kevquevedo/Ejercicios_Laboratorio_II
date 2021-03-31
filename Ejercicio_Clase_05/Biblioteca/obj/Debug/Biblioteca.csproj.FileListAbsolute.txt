@@ -1,0 +1,5 @@
+C:\Users\Kevin\source\repos\Ejercicio_Clase_05\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Kevin\source\repos\Ejercicio_Clase_05\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Kevin\source\repos\Ejercicio_Clase_05\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Ejercicio_Clase_05\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Kevin\source\repos\Ejercicio_Clase_05\Biblioteca\obj\Debug\Biblioteca.pdb

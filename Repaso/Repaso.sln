@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repaso", "Repaso\Repaso.csproj", "{7A3B4353-853D-4F14-96F3-A3CEC9D96D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{6D6B873A-0587-461E-A0E4-AEC3F5A3AEDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A3B4353-853D-4F14-96F3-A3CEC9D96D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3B4353-853D-4F14-96F3-A3CEC9D96D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3B4353-853D-4F14-96F3-A3CEC9D96D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3B4353-853D-4F14-96F3-A3CEC9D96D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D6B873A-0587-461E-A0E4-AEC3F5A3AEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6B873A-0587-461E-A0E4-AEC3F5A3AEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6B873A-0587-461E-A0E4-AEC3F5A3AEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6B873A-0587-461E-A0E4-AEC3F5A3AEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E0277B-47D6-4DEB-949E-1F8FB671B4C1}
+	EndGlobalSection
+EndGlobal
