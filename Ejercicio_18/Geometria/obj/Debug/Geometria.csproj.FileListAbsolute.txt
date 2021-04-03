@@ -1,0 +1,6 @@
+C:\Users\Kevin\source\repos\Ejercicio_18\Geometria\bin\Debug\Geometria.dll
+C:\Users\Kevin\source\repos\Ejercicio_18\Geometria\bin\Debug\Geometria.pdb
+C:\Users\Kevin\source\repos\Ejercicio_18\Geometria\obj\Debug\Geometria.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Ejercicio_18\Geometria\obj\Debug\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Ejercicio_18\Geometria\obj\Debug\Geometria.dll
+C:\Users\Kevin\source\repos\Ejercicio_18\Geometria\obj\Debug\Geometria.pdb
