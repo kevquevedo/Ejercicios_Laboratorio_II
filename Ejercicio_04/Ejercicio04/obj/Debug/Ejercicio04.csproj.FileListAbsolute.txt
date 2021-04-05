@@ -5,3 +5,10 @@ C:\Users\Kevin\source\repos\Ejercicio04\Ejercicio04\obj\Debug\Ejercicio04.csproj
 C:\Users\Kevin\source\repos\Ejercicio04\Ejercicio04\obj\Debug\Ejercicio04.csproj.CoreCompileInputs.cache
 C:\Users\Kevin\source\repos\Ejercicio04\Ejercicio04\obj\Debug\Ejercicio04.exe
 C:\Users\Kevin\source\repos\Ejercicio04\Ejercicio04\obj\Debug\Ejercicio04.pdb
+C:\Users\Kevin\source\repos\Ejercicio_04\Ejercicio04\bin\Debug\Ejercicio04.exe.config
+C:\Users\Kevin\source\repos\Ejercicio_04\Ejercicio04\bin\Debug\Ejercicio04.exe
+C:\Users\Kevin\source\repos\Ejercicio_04\Ejercicio04\bin\Debug\Ejercicio04.pdb
+C:\Users\Kevin\source\repos\Ejercicio_04\Ejercicio04\obj\Debug\Ejercicio04.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Ejercicio_04\Ejercicio04\obj\Debug\Ejercicio04.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Ejercicio_04\Ejercicio04\obj\Debug\Ejercicio04.exe
+C:\Users\Kevin\source\repos\Ejercicio_04\Ejercicio04\obj\Debug\Ejercicio04.pdb
