@@ -1,0 +1,16 @@
+C:\Users\Kevin\source\repos\Ejercicio_25\Ejercicio_25\bin\Debug\Ejercicio_25.exe.config
+C:\Users\Kevin\source\repos\Ejercicio_25\Ejercicio_25\bin\Debug\Ejercicio_25.exe
+C:\Users\Kevin\source\repos\Ejercicio_25\Ejercicio_25\bin\Debug\Ejercicio_25.pdb
+C:\Users\Kevin\source\repos\Ejercicio_25\Ejercicio_25\obj\Debug\Ejercicio_25.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Ejercicio_25\Ejercicio_25\obj\Debug\Ejercicio_25.Properties.Resources.resources
+C:\Users\Kevin\source\repos\Ejercicio_25\Ejercicio_25\obj\Debug\Ejercicio_25.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\Ejercicio_25\Ejercicio_25\obj\Debug\Ejercicio_25.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Ejercicio_25\Ejercicio_25\obj\Debug\Ejercicio_25.exe
+C:\Users\Kevin\source\repos\Ejercicio_25\Ejercicio_25\obj\Debug\Ejercicio_25.pdb
+C:\Users\Kevin\source\repos\Ejercicio_25\Ejercicio_25\obj\Debug\Ejercicio_25.Conversor_Numerico.resources
+C:\Users\Kevin\source\repos\Ejercicio_25\Ejercicio_25\bin\Debug\Ejercicio_22.exe
+C:\Users\Kevin\source\repos\Ejercicio_25\Ejercicio_25\bin\Debug\Biblioteca.dll
+C:\Users\Kevin\source\repos\Ejercicio_25\Ejercicio_25\bin\Debug\Ejercicio_22.pdb
+C:\Users\Kevin\source\repos\Ejercicio_25\Ejercicio_25\bin\Debug\Ejercicio_22.exe.config
+C:\Users\Kevin\source\repos\Ejercicio_25\Ejercicio_25\bin\Debug\Biblioteca.pdb
+C:\Users\Kevin\source\repos\Ejercicio_25\Ejercicio_25\obj\Debug\Ejercicio_25.csproj.CopyComplete

@@ -1,0 +1,5 @@
+C:\Users\Kevin\source\repos\CalculadoraDeFormas\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Kevin\source\repos\CalculadoraDeFormas\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Kevin\source\repos\CalculadoraDeFormas\Biblioteca\obj\Debug\Formas.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\CalculadoraDeFormas\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Kevin\source\repos\CalculadoraDeFormas\Biblioteca\obj\Debug\Biblioteca.pdb

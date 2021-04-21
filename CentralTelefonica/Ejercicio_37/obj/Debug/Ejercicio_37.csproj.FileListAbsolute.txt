@@ -1,0 +1,7 @@
+C:\Users\Kevin\source\repos\CentralTelefonica\Ejercicio_37\bin\Debug\Ejercicio_37.exe.config
+C:\Users\Kevin\source\repos\CentralTelefonica\Ejercicio_37\bin\Debug\Ejercicio_37.exe
+C:\Users\Kevin\source\repos\CentralTelefonica\Ejercicio_37\bin\Debug\Ejercicio_37.pdb
+C:\Users\Kevin\source\repos\CentralTelefonica\Ejercicio_37\obj\Debug\Ejercicio_37.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\CentralTelefonica\Ejercicio_37\obj\Debug\Ejercicio_37.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\CentralTelefonica\Ejercicio_37\obj\Debug\Ejercicio_37.exe
+C:\Users\Kevin\source\repos\CentralTelefonica\Ejercicio_37\obj\Debug\Ejercicio_37.pdb

@@ -1,0 +1,10 @@
+C:\Users\Kevin\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\CalculadoraDeFormas.exe.config
+C:\Users\Kevin\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\CalculadoraDeFormas.exe
+C:\Users\Kevin\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\CalculadoraDeFormas.pdb
+C:\Users\Kevin\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\Biblioteca.dll
+C:\Users\Kevin\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\Biblioteca.pdb
+C:\Users\Kevin\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.csproj.CopyComplete
+C:\Users\Kevin\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.exe
+C:\Users\Kevin\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.pdb
