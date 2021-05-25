@@ -1,0 +1,15 @@
+C:\Users\Kevin\source\repos\Ejercicio_40\FormLlamador\bin\Debug\FormLlamador.exe.config
+C:\Users\Kevin\source\repos\Ejercicio_40\FormLlamador\bin\Debug\FormLlamador.exe
+C:\Users\Kevin\source\repos\Ejercicio_40\FormLlamador\bin\Debug\FormLlamador.pdb
+C:\Users\Kevin\source\repos\Ejercicio_40\FormLlamador\bin\Debug\CentralitaHerencia.dll
+C:\Users\Kevin\source\repos\Ejercicio_40\FormLlamador\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Kevin\source\repos\Ejercicio_40\FormLlamador\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Ejercicio_40\FormLlamador\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\Kevin\source\repos\Ejercicio_40\FormLlamador\obj\Debug\FormLlamador.Properties.Resources.resources
+C:\Users\Kevin\source\repos\Ejercicio_40\FormLlamador\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\Ejercicio_40\FormLlamador\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Ejercicio_40\FormLlamador\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Kevin\source\repos\Ejercicio_40\FormLlamador\obj\Debug\FormLlamador.exe
+C:\Users\Kevin\source\repos\Ejercicio_40\FormLlamador\obj\Debug\FormLlamador.pdb
+C:\Users\Kevin\source\repos\Ejercicio_40\FormLlamador\obj\Debug\Formularios.FrmLlamador.resources
+C:\Users\Kevin\source\repos\Ejercicio_40\FormLlamador\obj\Debug\Formularios.FrmMostrar.resources

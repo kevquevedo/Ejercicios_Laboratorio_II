@@ -1,0 +1,10 @@
+C:\Users\Kevin\source\repos\Ejercicio_30\Ejercicio_30\bin\Debug\Ejercicio_30.exe.config
+C:\Users\Kevin\source\repos\Ejercicio_30\Ejercicio_30\bin\Debug\Ejercicio_30.exe
+C:\Users\Kevin\source\repos\Ejercicio_30\Ejercicio_30\bin\Debug\Ejercicio_30.pdb
+C:\Users\Kevin\source\repos\Ejercicio_30\Ejercicio_30\bin\Debug\Biblioteca.dll
+C:\Users\Kevin\source\repos\Ejercicio_30\Ejercicio_30\bin\Debug\Biblioteca.pdb
+C:\Users\Kevin\source\repos\Ejercicio_30\Ejercicio_30\obj\Debug\Ejercicio_30.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Ejercicio_30\Ejercicio_30\obj\Debug\Ejercicio_30.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Ejercicio_30\Ejercicio_30\obj\Debug\Ejercicio_30.csproj.CopyComplete
+C:\Users\Kevin\source\repos\Ejercicio_30\Ejercicio_30\obj\Debug\Ejercicio_30.exe
+C:\Users\Kevin\source\repos\Ejercicio_30\Ejercicio_30\obj\Debug\Ejercicio_30.pdb

@@ -1,0 +1,10 @@
+C:\Users\Kevin\source\repos\Ejercicio_28\Ejercicio_28\bin\Debug\Ejercicio_28.exe.config
+C:\Users\Kevin\source\repos\Ejercicio_28\Ejercicio_28\bin\Debug\Ejercicio_28.exe
+C:\Users\Kevin\source\repos\Ejercicio_28\Ejercicio_28\bin\Debug\Ejercicio_28.pdb
+C:\Users\Kevin\source\repos\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.Form1.resources
+C:\Users\Kevin\source\repos\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.Properties.Resources.resources
+C:\Users\Kevin\source\repos\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.exe
+C:\Users\Kevin\source\repos\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.pdb
